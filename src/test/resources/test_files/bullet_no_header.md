@@ -1,0 +1,2 @@
+- this is [[a bullet with no header with important info]]
+- this is a bullet with no header and no important info
